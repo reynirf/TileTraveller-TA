@@ -1,4 +1,5 @@
 # Algorithm
-# rearearaeteateatea
-# 4543543teateateareatea
+# 1 condition
+# 2 condition
+# 3 condition
 
